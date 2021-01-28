@@ -7,7 +7,7 @@ $root = '';
 // use if specifying path from root
 //$root = $_SERVER['DOCUMENT_ROOT'];
 
-$path = 'images/';
+$path = 'app/images/';
 
 // End of user modified section 
 /////////////////////////////////////////////////////////////////////
